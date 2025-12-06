@@ -1,9 +1,7 @@
 title: "Centam Select"
 description: "Curated Central American Coffee from the Heart of Central America"
 
-# Your main GitHub Pages URL
 url: "https://abinitiativesllc.github.io"
-# This project site lives at /abinitiativesllc
 baseurl: "/abinitiativesllc"
 
 remote_theme: "rohanchandra/type-theme"
