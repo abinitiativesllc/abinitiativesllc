@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: "Centam Select"
+permalink: /abinitiativesllc/
 ---
 
 ## Curated Central American Coffee
