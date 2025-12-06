@@ -1,26 +1,18 @@
 title: "Centam Select"
 description: "Curated Central American Coffee from the Heart of Central America"
-url: "https://YOUR-GITHUB-USERNAME.github.io"
-baseurl: ""  # keep empty if your repo is YOUR-GITHUB-USERNAME.github.io
+
+# Your main GitHub Pages URL (user)
+url: "https://abinitiativesllc.github.io"
+# This project repo lives at /abinitiativesllc
+baseurl: "/abinitiativesllc"
 
 remote_theme: "rohanchandra/type-theme"
 
 plugins:
   - jekyll-remote-theme
 
-# Navigation links (top menu)
 navbar_links:
-  About: "/about"
-  Contact: "/contact"
+  About: "/abinitiativesllc/about"
+  Contact: "/abinitiativesllc/contact"
 
-# Social links (optional – update or remove)
-social:
-  github: YOUR-GITHUB-USERNAME
-  instagram: centamselect     # if/when you make one
-  email: "hello@YOURDOMAIN.com"
-
-# Theme options
-permalink: /:categories/:title/
-paginate: 5
-paginate_path: "/page:num/"
 timezone: "America/New_York"
