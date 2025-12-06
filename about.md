@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-permalink: /about/
+permalink: /abinitiativesllc/about/
 ---
 
 ## Our Story
@@ -24,26 +24,6 @@ That’s why Centam Select exists.
 
 **“Select”** reflects our commitment to:
 
-- Carefully choosing our partners
-- Highlighting small-batch lots
+- Carefully choosing our partners  
+- Highlighting small-batch lots  
 - Offering coffees that stand out in both quality and character
-
-We focus on coffees that are:
-
-- Sourced from trusted cooperatives and roasters
-- Produced with care for people and land
-- Distinctive enough to remember after the cup is empty
-
----
-
-## About the Founder
-
-**Aaron Byron** is a U.S. Army veteran and Cornell MBA graduate who has spent his career at the intersection of leadership, intelligence, and real-world problem-solving.
-
-Centam Select is his way of:
-
-- Supporting the communities he came to know in Central America  
-- Sharing exceptional coffee with people who appreciate story and craft  
-- Building a modern, minimalist brand grounded in authenticity rather than hype
-
-Centam Select is for people who want more from their coffee — not just caffeine, but **connection**.
