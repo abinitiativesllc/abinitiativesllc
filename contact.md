@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-permalink: /contact/
+permalink: /abinitiativesllc/contact/
 ---
 
 ## Get in Touch
@@ -18,7 +18,7 @@ We’d love to hear from you.
 hello@YOURDOMAIN.com  
 
 **Instagram**  
-[@centamselect](https://instagram.com/centamselect){:target="_blank"}
+@centamselect  
 
 **Location**  
 Based in **Westchester County, New York**, with roots in **Central America**.
