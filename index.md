@@ -28,18 +28,9 @@ It’s coffee with a story, curated with intention.
 
 ---
 
-### Coming Soon
+### Stay Connected
 
-We’re preparing our first release of **roasted Central American coffees** for small-batch sales in:
-
-- Local markets and events in Westchester, NY  
-- Online orders and limited drops  
-- Gift-ready packaging for people who care about story and quality
-
-Want to stay in the loop?  
 For now, you can reach us at:
 
 **Email:** hello@YOURDOMAIN.com  
-**Instagram:** [@centamselect](https://instagram.com/centamselect){:target="_blank"}
-
-*(Replace with your real details once they’re set up.)*
+**Instagram:** @centamselect
